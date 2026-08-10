@@ -103,12 +103,9 @@ Setiap modul bisa dijalankan berdampingan atau sendiri-sendiri — matikan saja 
 
 ## Tampilan
 
-*(Tambahkan screenshot chart di sini, mis.:)*
-
-```
 ![Volume Profile & Delta Heatmap](docs/Screenshot_1.png)
 ![Smart Zone & Accumulation Detection](docs/Screenshot_2.png)
-```
+
 
 ## Disclaimer
 
