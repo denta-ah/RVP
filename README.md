@@ -103,8 +103,8 @@ Setiap modul bisa dijalankan berdampingan atau sendiri-sendiri — matikan saja 
 
 ## Tampilan
 
-![RVP Full Fitur](docs/RVP v6.11.1.png)
-![RVP with Preset](docs/RVP v6.11.1_with preset.png)
+![RVP Full Fitur](docs/RVP_v6.11.1.png)
+![RVP with Preset](docs/RVP_v6.11.1_with_preset.png)
 
 
 ## Disclaimer
