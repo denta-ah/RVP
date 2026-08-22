@@ -103,8 +103,8 @@ Setiap modul bisa dijalankan berdampingan atau sendiri-sendiri — matikan saja 
 
 ## Tampilan
 
-![Volume Profile & Delta Heatmap](docs/Screenshot_1.png)
-![Smart Zone & Accumulation Detection](docs/Screenshot_2.png)
+![RVP Full Fitur](docs/RVP v6.11.1.png)
+![RVP with Preset](docs/RVP v6.11.1_with preset.png)
 
 
 ## Disclaimer
